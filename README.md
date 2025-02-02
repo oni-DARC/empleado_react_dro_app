@@ -7,7 +7,7 @@
   - Deberá mostrar un título: **BIENVENIDO** y un botón con el nombre de **INGRESAR**.
   - Ejemplo de diseño:
 
-    ![Botón de ingreso](path/to/imagen.png)
+    ![Botón de ingreso](assets/00-Requerimiento.png)
 
   - Al presionar el botón **Ingresar**, se debe direccionar al **Screen 2**.
 
@@ -56,5 +56,14 @@
 - **Screen 2: Lista de Empleados**
   ![Screen 2](assets/02-Lista.jpeg)
 
-- **Screen 3: Aregar Empleado**
-  ![Screen 3](assets/03-AgregarEditar.jpeg)
+- **Screen 3: Agregar Empleado**
+  ![Screen 3](assets/03-Agregar.jpeg)
+
+- **Screen 4: Editar-Eliminar**
+  ![Screen 4](assets/04-EditarEliminar.jpeg)
+
+- **Screen 5: Eliminar Confirmación**
+  ![Screen 5](assets/05-EliminarConfirmar.jpeg)
+
+- **Screen 6: Editar**
+  ![Screen 6](assets/06-Editar.jpeg)
